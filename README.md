@@ -629,7 +629,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:akshaybamnote11@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Akshay Bamnote" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=akshaybamnote11@gmail.com&size=square" alt="Akshay Bamnote" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
